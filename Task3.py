@@ -93,8 +93,8 @@ def main():
     print("Number of high values: {:>5}".format(len(high_list)))
     print("Total population:      {:>5}".format(len(result)))
     print(result[:100])
-    print low_list
-    print high_list
+    print(low_list)
+    print(high_list)
     print('_'*120)
 
 
